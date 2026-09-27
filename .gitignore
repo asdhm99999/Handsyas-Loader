@@ -1,0 +1,5 @@
+*.log
+*.bak
+*.loader_bak
+bin/
+obj/
